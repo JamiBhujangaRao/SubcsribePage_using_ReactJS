@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Bree Serif;
+  padding: 10px;
+}
+.heading {
+  font-size: 75px;
+  font-weight: bold;
+  color: #f0bb03;
+}
+.about {
+  font-size: 30px;
+  font-weight: 500;
+  color: white;
+}
+.btn {
+  background-color: white;
+  font-size: 20px;
+  color: black;
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 10px;
+  font-family: Bree Serif;
+  font-weight: bold;
+}
